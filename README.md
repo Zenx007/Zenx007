@@ -1,7 +1,7 @@
 # Hello, I'm João! 👋  
 
 ## About Me  
-👋 Hi! I'm a **Software Engineering** student with a technical background in **Electrotechnics** from IFMG. Currently, I'm focused on improving my skills in **Java**, using frameworks like **Spring Boot** and databases like **MySQL**.  
+👋 Hi! I'm a **Software Engineering** student. Currently, I'm focused on improving my skills in **Java**, using frameworks like **Spring Boot** and databases like **MySQL**.  
 
 I have experience with **Java**, **C++**, and **Web Development**, as well as familiarity with tools like **Microsoft Office** and **AutoCAD**. I'm passionate about solving problems with technology and am always eager to learn more to contribute to challenging projects. Feel free to explore my personal projects!  
 
