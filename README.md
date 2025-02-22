@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hello, I'm João! 👋  
 
-<!--
-**Zenx007/Zenx007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+👋 Hi! I'm a **Software Engineering** student with a technical background in **Electrotechnics** from IFMG. Currently, I'm focused on improving my skills in **Java**, using frameworks like **Spring Boot** and databases like **MySQL**.  
 
-Here are some ideas to get you started:
+I have experience with **Java**, **C++**, and **Web Development**, as well as familiarity with tools like **Microsoft Office** and **AutoCAD**. I'm passionate about solving problems with technology and am always eager to learn more to contribute to challenging projects. Feel free to explore my personal projects!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I Use  
+### Front-end  
+- **HTML**  
+- **CSS**  
+- **JavaScript**  
+
+### Back-end  
+- **C++**  
+- **Java**  
+- **Spring Boot**  
+- **MySQL**  
+
+### Tools  
+- **Git**  
+- **IntelliJ IDEA**  
+- **VS Code**  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Contact Me  
+- 📫 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+- ✉️ **Email**: youremail@example.com  
