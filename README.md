@@ -27,5 +27,5 @@ I have experience with **Java**, **Python**, and **Web Development**. I'm passio
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenx007&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Me  
-- 📫 **LinkedIn**: [João Victor](www.linkedin.com/in/joão-victor-218b26315)  
+- 📫 **LinkedIn**: [João Victor](https://www.linkedin.com/in/joão-victor-218b26315)  
 - ✉️ **Email**: joaovictordev0720@gmail.com
