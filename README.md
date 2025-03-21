@@ -1,27 +1,29 @@
 # Hello, I'm João! 👋  
 
 ## About Me  
-👋 Hi! I'm a **Software Engineering** student. Currently, I'm focused on improving my skills in **Java** and **Python**, using frameworks like **Spring Boot**, **FastAPI** and databases like **MySQL**.  
+👋 Hi! I'm a **Software Engineering** student with a strong passion for leveraging technology to solve complex problems. My primary focus is on enhancing my expertise in **Java**, particularly with the **Spring Boot** framework, and working with both **SQL** and **NoSQL** databases. I also have experience in front-end development using **Angular**, which allows me to build dynamic and responsive web applications.
 
-I have experience with **Java**, **Python**, and **Web Development**. I'm passionate about solving problems with technology and am always eager to learn more to contribute to challenging projects. Feel free to explore my personal projects!  
+I bring hands-on experience in **Java**, **Python**, **C#**, and **Web Development**, with a solid foundation in basic Python and C# programming. I thrive on building efficient, scalable, and innovative solutions, and I'm constantly expanding my skill set to tackle challenging projects. Feel free to explore my personal projects to see how I apply my knowledge and creativity to real-world problems!
+
+Let’s connect and create something amazing together! 🚀
 
 ## Technologies I Use  
 ### Front-end  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Back-end  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ### Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenx007&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
