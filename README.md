@@ -1,9 +1,9 @@
 # Hello, I'm João! 👋  
 
 ## About Me  
-👋 Hi! I'm a **Software Engineering** student with a strong passion for leveraging technology to solve complex problems. My primary focus is on enhancing my expertise in **Java**, particularly with the **Spring Boot** framework, and working with both **SQL** and **NoSQL** databases. I also have experience in front-end development using **Angular**, which allows me to build dynamic and responsive web applications.
+👋 Hi! I'm a **Software Engineering** student with a strong passion for leveraging technology to solve complex problems. My primary focus is on enhancing my expertise in **Java**, particularly with the **Spring Boot** framework, and working with both **SQL** and **NoSQL** databases.
 
-I bring hands-on experience in **Java**, **Python**, **C#**, and **Web Development**, with a solid foundation in basic Python and C# programming. I thrive on building efficient, scalable, and innovative solutions, and I'm constantly expanding my skill set to tackle challenging projects. Feel free to explore my personal projects to see how I apply my knowledge and creativity to real-world problems!
+I bring hands-on experience in **Java**, **Python**, **C#**. I thrive on building efficient, scalable, and innovative solutions, and I'm constantly expanding my skill set to tackle challenging projects. Feel free to explore my personal projects to see how I apply my knowledge and creativity to real-world problems!
 
 Let’s connect and create something amazing together! 🚀
 
