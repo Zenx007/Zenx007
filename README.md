@@ -1,11 +1,15 @@
 # Hello, I'm João! 👋  
 
-## About Me  
-👋 Hi! I'm a Software Engineering student passionate about leveraging technology to solve complex problems. 
+A back-end developer and software engineering student, I currently work on building robust and scalable systems using the C#/.NET and Node.js stacks. I'm passionate about technology and translating complex challenges into efficient, high-performance software solutions.
 
-### 🔧 Current Focus
-- **Professional**: Working with **C# and .NET** ecosystem to build robust applications  
-- **Academic**: Enhancing expertise in **Java/Spring Boot** and database systems (**SQL & NoSQL**)  
+### 🚀 Current Focus & Experience
+- Back-end Development with C#/.NET: I develop and maintain production applications, building secure and optimized RESTful APIs.
+
+- Node.js Ecosystem: I have experience creating scalable back-end applications and APIs using Node.js with TypeScript.
+
+- Databases: I handle data modeling, implementation, and query optimization for both relational (SQL Server, PostgreSQL) and NoSQL (MongoDB) databases.
+
+- Cloud Computing: I use Microsoft Azure for deploying and managing applications and services.
 
 ## Technologies I Use  
 ### Back-end  
@@ -30,14 +34,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenx007&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### 🚀 Experience
-- **Currently** developing production applications with **C#/.NET** stack  
-- Building scalable backend systems with **Java/Spring Boot**  
-- Hands-on experience with **Python** for scripting and automation  
-- Database design for both relational (**SQL Server/PostgreSQL**) and document (**MongoDB**) databases  
-
-I thrive on building efficient, scalable solutions while continuously expanding my skill set. Check out my projects to see how I apply these technologies to real-world challenges!
 
 Let's connect and create something amazing together! 🌟
 
